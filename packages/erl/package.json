@@ -1,6 +1,6 @@
 {
   "name": "erl",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "hubingkang <squarewheel@163.com> (http://hubingkang.com/)",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "37671721aca977986a32ac269eb768380709ab8e"
 }
