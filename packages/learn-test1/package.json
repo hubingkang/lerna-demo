@@ -1,10 +1,13 @@
 {
   "name": "@litjs/learn-test1",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publicConfig": {
+    "access": "public"
   },
   "keywords": [],
   "author": "hubingkang <squarewheel@163.com> (http://hubingkang.com/)",
@@ -12,5 +15,5 @@
   "dependencies": {
     "lodash": "^4.17.20"
   },
-  "gitHead": "28ed2f0fa57a4ef941d9182fc8f3d80d09c6bfcb"
+  "gitHead": "5a6b362c7649a9824198fdbe9d35ec20ca63c47e"
 }
