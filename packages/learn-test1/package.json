@@ -1,0 +1,15 @@
+{
+  "name": "@lit/learn-test1",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hubingkang <squarewheel@163.com> (http://hubingkang.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
