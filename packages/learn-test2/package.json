@@ -1,6 +1,6 @@
 {
   "name": "@litjs/learn-test2",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "hubingkang <squarewheel@163.com> (http://hubingkang.com/)",
   "license": "ISC",
-  "gitHead": "9cd06d06fe1144674a35a885805899a8e977db77"
+  "gitHead": "28ed2f0fa57a4ef941d9182fc8f3d80d09c6bfcb"
 }

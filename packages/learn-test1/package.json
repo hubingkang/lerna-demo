@@ -1,6 +1,6 @@
 {
   "name": "@litjs/learn-test1",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "^4.17.20"
   },
-  "gitHead": "9cd06d06fe1144674a35a885805899a8e977db77"
+  "gitHead": "28ed2f0fa57a4ef941d9182fc8f3d80d09c6bfcb"
 }
